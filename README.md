@@ -1,4 +1,3 @@
-Certainly! Adding logging and verbose output can help you debug the script and understand its execution flow better. Below is the updated PowerShell script with logging and verbose output:
 
 1. **Install the Azure PowerShell module** (if not already installed):
    ```powershell
